@@ -1,7 +1,7 @@
 {
     "municipios": {
         "RioCauto": {
-            "residentetesH_M_14-20": [
+            "residentesH_M_14-22": [
                 [
                     24560,
                     24488,
@@ -51,7 +51,7 @@
             ]
         },
         "CautoCristo": {
-            "residentetesH_M_14-20": [
+            "residentesH_M_14-22": [
                 [
                     10793,
                     10784,
@@ -101,7 +101,7 @@
             ]
         },
         "Jiguani": {
-            "residentetesH_M_14-20": [
+            "residentesH_M_14-22": [
                 [
                     30652,
                     30595,
@@ -122,8 +122,7 @@
                     29843,
                     29713,
                     29665,
-                    29466,
-                    29331
+                    29466
                 ]
             ],
             "SMI-19-22": [
@@ -152,7 +151,7 @@
             ]
         },
         "Bayamo": {
-            "residentetesH_M_14-20": [
+            "residentesH_M_14-22": [
                 [
                     117211,
                     117399,
@@ -202,7 +201,7 @@
             ]
         },
         "Yara": {
-            "residentesH_M_14-20": [
+            "residentesH_M_14-22": [
                 [
                     29471,
                     29337,
@@ -252,7 +251,7 @@
             ]
         },
         "Manzanillo": {
-            "residentesH_M_14-20": [
+            "residentesH_M_14-22": [
                 [
                     65153,
                     64886,
@@ -302,7 +301,7 @@
             ]
         },
         "Campechuela": {
-            "residentesH_M_14-20": [
+            "residentesH_M_14-22": [
                 [
                     22963,
                     22773,
@@ -352,7 +351,7 @@
             ]
         },
         "MediaLuna": {
-            "residentesH_M_14-20": [
+            "residentesH_M_14-22": [
                 [
                     17562,
                     17437,
@@ -402,7 +401,7 @@
             ]
         },
         "Niquero": {
-            "residentesH_M_14-20": [
+            "residentesH_M_14-22": [
                 [
                     21908,
                     21863,
@@ -452,7 +451,7 @@
             ]
         },
         "Pilon": {
-            "residentesH_M_14-20": [
+            "residentesH_M_14-22": [
                 [
                     15386,
                     15326,
@@ -502,7 +501,7 @@
             ]
         },
         "bartolomeMazo": {
-            "residentesH_M_14-20": [
+            "residentesH_M_14-22": [
                 [
                     26234,
                     26004,
@@ -552,7 +551,7 @@
             ]
         },
         "bueyArriba": {
-            "residentesH_M_14-20": [
+            "residentesH_M_14-22": [
                 [
                     16655,
                     16531,
@@ -602,7 +601,7 @@
             ]
         },
         "Guisa": {
-            "residentesH_M_14-20": [
+            "residentesH_M_14-22": [
                 [
                     24868,
                     24656,
@@ -1008,5 +1007,20 @@
         2020,
         2021,
         2022
+    ],
+    "listamunis": [
+        "RioCauto",
+        "CautoCristo",
+        "Jiguani",
+        "Bayamo",
+        "Yara",
+        "Manzanillo",
+        "Campechuela",
+        "MediaLuna",
+        "Niquero",
+        "Pilon",
+        "bartolomeMazo",
+        "bueyArriba",
+        "Guisa"
     ]
 }
